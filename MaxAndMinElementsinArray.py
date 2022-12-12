@@ -13,3 +13,4 @@ for i in range(0, len(arr)):
     if arr[i] < minElement:
         minElement = arr[i]
 print(minElement)
+
